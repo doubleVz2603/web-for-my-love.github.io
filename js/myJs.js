@@ -1,5 +1,5 @@
 const textConfig = {
-  text1: "He luu cậu!",
+  text1: "He luu Thúy Hiền yêu dấu của tớ!",
   text2: "Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.",
   text3: "Cậu yêu tớ có phải không nào ._.",
   text4: "Nếu cậu ko trả lời mà thoát ra tức là muốn làm vợ tớ rùi đó nha :v",
@@ -10,7 +10,7 @@ const textConfig = {
   text9: "Vì cậu là 1 người chung thủy",
   text10: "Tớ biết mà ^^ Yêu cậu 3000",
   text11:
-    "Cậu sẽ chụp 1 bức ảnh xưn xỉu gửi tớ nha:v Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàooo",
+    "Cậu sẽ chụp 1 bức ảnh xưn xỉu gửi tớ nhe:v Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàooo",
   text12: "Okii lunn <3",
 };
 
